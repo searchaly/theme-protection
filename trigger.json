@@ -1,8 +1,5 @@
 {
   "clients": {
-    "4zsk1v-kn.myshopify.com": "lock",
-    "store-b.myshopify.com": "unlock",
-    "client-c-store.myshopify.com": "lock",
-    "brand-d.myshopify.com": "unlock"
+    "4zsk1v-kn.myshopify.com": "lock"
   }
 }
